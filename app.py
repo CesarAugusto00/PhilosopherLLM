@@ -34,7 +34,7 @@ LLAMA3_PROMPT_TEMPLATE = (
     "<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
 )
 
-INDEX_DIR = "C:\\Users\\cesar\\Documents\\projects\\Epictetus\\index_langchain"
+INDEX_DIR = "index_langchain"
 MODEL_RAG_EMB = "nomic-embed-text"
 
 # --- helper: turn retrieved docs into a compact context block ---
